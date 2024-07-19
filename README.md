@@ -31,4 +31,4 @@
 Стабилизатор имеет размеры 11х24см. Форму и скругления по вкусу
 
 Руль высоты - ширина 3см (вырез где пунктирная линия на фото)
-![alt text](https://github.com/YuRa-Aero/Ku-0.2-miniplane/blob/main/photo/photo_4_2024-07-19_10-19-48.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Ku-0.2-miniplane/blob/main/photo/photo_2_2024-07-19_10-19-48.jpg?raw=true)
